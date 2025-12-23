@@ -34,7 +34,6 @@ print("="*50,"\n")
 #Dropping opponents(names) as they add no value
 matches_data = matches_data.drop('opponent',axis=1)
 
-# ENCODE FIRST - before splitting into X and Y
 label_encoders = {}
 categorical_columns = ['home/away', 'match_time','opponent_strength_tier', 'recent_form', 'competition']
 
