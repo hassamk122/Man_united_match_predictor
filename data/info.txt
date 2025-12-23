@@ -1,0 +1,10 @@
+Dataset info :
+
+opponent
+home/away (or neutral if applicable)
+match_time: day or night 
+opponent_strength_tier: Top-tier (big 6/club equivalents or strong European), Upper-Mid, Lower-Mid, Bottom (based on league position/performance in that season)
+goals_scored: Manchester United's goals
+recent_form: Assessed relative to the period (Excellent/Good/Average/Poor based on preceding 5-10 matches)
+result: win/draw/loss (from MU perspective)
+competition

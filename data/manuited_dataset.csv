@@ -1,0 +1,115 @@
+opponent,home/away,match_time,opponent_strength_tier,goals_scored,recent_form,competition,result
+Aston Villa,away,night,Top-tier,1,Average,Premier League,loss
+AFC Bournemouth,home,night,Upper-Mid,4,Average,Premier League,draw
+Wolverhampton Wanderers,away,night,Lower-Mid,4,Average,Premier League,win
+West Ham United,home,day,Upper-Mid,1,Average,Premier League,draw
+Crystal Palace,away,night,Lower-Mid,2,Poor,Premier League,win
+Everton,home,night,Lower-Mid,0,Poor,Premier League,loss
+Tottenham Hotspur,away,day,Top-tier,2,Poor,Premier League,draw
+Nottingham Forest,away,night,Lower-Mid,2,Poor,Premier League,draw
+Brighton and Hove Albion,home,night,Upper-Mid,4,Good,Premier League,win
+Liverpool,away,day,Top-tier,2,Good,Premier League,win
+Sunderland,home,night,Lower-Mid,2,Good,Premier League,win
+Brentford,away,day,Upper-Mid,1,Average,Premier League,loss
+Chelsea,home,night,Top-tier,1,Average,Premier League,win
+Manchester City,away,day,Top-tier,0,Poor,Premier League,loss
+Burnley,home,night,Lower-Mid,3,Poor,Premier League,win
+Grimsby Town,away,night,Bottom,2,Poor,Carabao Cup,loss
+Fulham,away,day,Upper-Mid,1,Poor,Premier League,draw
+Arsenal,home,night,Top-tier,0,Poor,Premier League,loss
+Tottenham Hotspur,neutral,night,Top-tier,3,Average,Europa League Final,loss
+Athletic Bilbao,away,night,Upper-Mid,1,Good,Europa League,loss
+Athletic Bilbao,home,day,Upper-Mid,2,Good,Europa League,win
+Lyon,away,night,Upper-Mid,0,Excellent,Europa League,loss
+Lyon,home,night,Upper-Mid,1,Excellent,Europa League,win
+Real Sociedad,away,night,Upper-Mid,3,Excellent,Europa League,win
+Real Sociedad,home,night,Upper-Mid,4,Excellent,Europa League,win
+Tottenham Hotspur,away,night,Top-tier,1,Good,Premier League,loss
+Bournemouth,home,day,Upper-Mid,2,Good,Premier League,win
+Nottingham Forest,away,night,Lower-Mid,0,Average,Premier League,loss
+Fulham,home,day,Upper-Mid,1,Average,FA Cup,loss
+Liverpool,home,night,Top-tier,2,Poor,Premier League,draw
+Newcastle United,away,day,Top-tier,0,Poor,Premier League,loss
+Wolves,home,night,Lower-Mid,2,Poor,Premier League,win
+Brighton,away,day,Upper-Mid,1,Poor,Premier League,loss
+Arsenal,away,night,Top-tier,0,Poor,Premier League,loss
+Everton,away,day,Lower-Mid,1,Average,Premier League,draw
+Southampton,home,night,Bottom,3,Average,Premier League,win
+Crystal Palace,away,day,Lower-Mid,2,Good,Premier League,win
+Ipswich Town,home,night,Bottom,4,Good,Premier League,win
+Leicester City,away,day,Lower-Mid,3,Excellent,Premier League,win
+Chelsea,home,night,Top-tier,1,Excellent,Premier League,draw
+Brentford,away,day,Upper-Mid,2,Good,Premier League,win
+West Ham,home,night,Upper-Mid,1,Good,Premier League,loss
+Aston Villa,away,day,Top-tier,2,Average,Premier League,win
+Manchester City,home,night,Top-tier,0,Average,Premier League,loss
+Viktoria Plzen,home,night,Lower-Mid,3,Average,Europa League,win
+Bournemouth,away,day,Upper-Mid,2,Poor,Premier League,draw
+Nottingham Forest,home,night,Lower-Mid,3,Poor,Premier League,win
+Fulham,away,day,Upper-Mid,1,Poor,Premier League,loss
+Manchester City,home,day,Top-tier,2,Poor,Premier League,draw
+Liverpool,away,night,Top-tier,1,Poor,Premier League,loss
+Newcastle United,home,night,Top-tier,0,Average,Premier League,loss
+Wolves,away,day,Lower-Mid,2,Average,Premier League,win
+Brighton,home,night,Upper-Mid,1,Average,Premier League,loss
+Tottenham Hotspur,home,day,Top-tier,3,Good,Carabao Cup,loss
+Arsenal,home,night,Top-tier,0,Good,Premier League,loss
+Real Sociedad,away,day,Upper-Mid,1,Excellent,Premier League,draw
+Everton,home,night,Lower-Mid,4,Excellent,Premier League,win
+Southampton,away,day,Bottom,3,Good,Premier League,win
+Crystal Palace,home,night,Lower-Mid,0,Good,Premier League,loss
+Ipswich Town,away,day,Bottom,2,Average,Premier League,win
+Leicester City,home,night,Lower-Mid,5,Average,Carabao Cup,win
+Chelsea,away,day,Top-tier,1,Poor,Premier League,loss
+PAOK,home,night,Lower-Mid,2,Poor,Europa League,win
+West Ham,home,night,Upper-Mid,2,Average,Premier League,win
+Aston Villa,away,day,Top-tier,2,Average,Premier League,loss
+Tottenham Hotspur,home,night,Top-tier,0,Average,Premier League,loss
+Brentford,away,day,Upper-Mid,1,Average,Premier League,loss
+Porto,away,night,Upper-Mid,3,Good,Europa League,draw
+Twente,home,night,Lower-Mid,1,Good,Europa League,draw
+Fulham,home,night,Upper-Mid,1,Excellent,Premier League,win
+Barnesley,home,night,Lower-Mid,7,Excellent,Carabao Cup,win
+Liverpool,away,night,Top-tier,3,Poor,FA Cup,win
+Manchester City,away,night,Top-tier,1,Poor,Premier League,loss
+Ipswich Town,home,day,Bottom,3,Average,Premier League,win
+Brighton,away,day,Upper-Mid,1,Average,Premier League,loss
+Southampton,home,night,Bottom,2,Good,Premier League,win
+Liverpool,away,day,Top-tier,0,Good,Premier League,loss
+Tottenham Hotspur,away,night,Top-tier,3,Excellent,Premier League,win
+Aston Villa,home,night,Top-tier,0,Excellent,Premier League,draw
+Coventry City,neutral,night,Lower-Mid,3,Good,FA Cup,win
+Liverpool,home,night,Top-tier,2,Good,Premier League,draw
+Chelsea,away,day,Top-tier,1,Average,Premier League,loss
+Brentford,home,night,Upper-Mid,2,Average,Premier League,win
+Everton,away,day,Lower-Mid,3,Average,Premier League,win
+Sheffield United,home,night,Bottom,4,Good,Premier League,win
+West Ham,away,day,Upper-Mid,0,Poor,Premier League,loss
+Newport County,away,day,Bottom,4,Poor,FA Cup,win
+Arsenal,home,night,Top-tier,1,Poor,Premier League,loss
+Nottingham Forest,away,day,Lower-Mid,3,Average,Premier League,win
+Wigan Athletic,home,night,Lower-Mid,2,Average,FA Cup,win
+Aston Villa,away,day,Top-tier,1,Good,Premier League,loss
+Manchester City,away,night,Top-tier,1,Good,FA Cup,loss
+Bournemouth,home,day,Upper-Mid,3,Excellent,Premier League,win
+Wolves,away,night,Lower-Mid,4,Excellent,Premier League,win
+Liverpool,home,night,Top-tier,0,Good,Premier League,loss
+Fulham,away,day,Upper-Mid,2,Average,Premier League,win
+Crystal Palace,home,night,Lower-Mid,1,Average,Premier League,draw
+Newcastle United,away,day,Top-tier,0,Poor,Premier League,loss
+Brighton,home,night,Upper-Mid,2,Poor,Premier League,win
+Burnley,away,day,Lower-Mid,1,Average,Premier League,draw
+Luton Town,home,night,Bottom,2,Average,Premier League,win
+West Ham,away,day,Upper-Mid,0,Good,Premier League,loss
+Coventry City,neutral,night,Lower-Mid,3,Good,FA Cup,win
+Nottingham Forest,home,day,Lower-Mid,1,Excellent,Premier League,loss
+Brentford,away,night,Upper-Mid,1,Excellent,Premier League,draw
+Chelsea,home,day,Top-tier,2,Good,Premier League,win
+Manchester City,away,night,Top-tier,1,Average,Premier League,loss
+Liverpool,away,day,Top-tier,0,Poor,Premier League,loss
+Galatasaray,away,night,Upper-Mid,3,Poor,Champions League,win
+Copenhagen,home,night,Lower-Mid,1,Average,Champions League,win
+Everton,home,night,Lower-Mid,2,Average,Premier League,win
+Fulham,home,day,Upper-Mid,1,Good,Premier League,loss
+Sheffield United,away,night,Bottom,2,Good,Premier League,win
+Newcastle United,away,night,Upper-Mid,0,Excellent,Carabao Cup,loss
