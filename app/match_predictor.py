@@ -26,12 +26,10 @@ class MatchPredictorModel:
             matches_data[column] = le.fit_transform(matches_data[column])
             self.label_encoders[column] = le
         
-        # Encode target
         self.label_encoder_result = LabelEncoder()
         matches_data['result'] = self.label_encoder_result.fit_transform(matches_data['result'])
         
         X = matches_data.drop('result', axis=1)
-        # --- CRITICAL FIX: Save the exact feature order ---
         self.feature_names = X.columns.tolist()
         
         Y = matches_data['result']
@@ -39,7 +37,6 @@ class MatchPredictorModel:
         
         self.classifier.fit(X_train, Y_train)
         
-        # Calculate Accuracy
         Y_predict = self.classifier.predict(X_test)
         self.accuracy = accuracy_score(Y_test, Y_predict)
 
@@ -49,7 +46,6 @@ class MatchPredictorModel:
         for col in self.categorical_columns:
             new_match[col] = self.label_encoders[col].transform(new_match[col])
         
-        # --- CRITICAL FIX: Reorder columns to match the training data ---
         new_match = new_match[self.feature_names]
         
         # Get prediction and probabilities
@@ -57,7 +53,7 @@ class MatchPredictorModel:
         predicted_result = self.label_encoder_result.inverse_transform(prediction)[0]
         probabilities = self.classifier.predict_proba(new_match)[0]
         
-        # Map probabilities to classes
+
         prob_map = dict(zip(self.label_encoder_result.classes_, probabilities))
         
         return predicted_result, prob_map
