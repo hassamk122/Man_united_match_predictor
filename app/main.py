@@ -1,10 +1,16 @@
-from typing import Union
+import sys
+from PyQt5.QtWidgets import QApplication
+from match_predictor import MatchPredictorModel
+from match_ui import MatchPredictorApp
 
-from fastapi import FastAPI
+def main():
+    app = QApplication(sys.argv)
+    
+    predictor_logic = MatchPredictorModel("data/manuited_dataset.csv")
+    
+    window = MatchPredictorApp(predictor_logic)
+    window.show()
+    sys.exit(app.exec_())
 
-app = FastAPI()
-
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+if __name__ == "__main__":
+    main()
