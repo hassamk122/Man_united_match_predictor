@@ -48,7 +48,6 @@ class MatchPredictorModel:
         
         new_match = new_match[self.feature_names]
         
-        # Get prediction and probabilities
         prediction = self.classifier.predict(new_match)
         predicted_result = self.label_encoder_result.inverse_transform(prediction)[0]
         probabilities = self.classifier.predict_proba(new_match)[0]
